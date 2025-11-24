@@ -1,7 +1,7 @@
 
 # Sales Forecasting & Clustering - Final Project
 
-Prepared by: ChatGPT (Your Assistant) & <Your Name Here>
+Prepared by: Subalakshmi
 
 ## Contents
 - sales_project.py        : Main script (runs preprocessing, unsupervised + supervised models, visualizations)
