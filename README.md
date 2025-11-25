@@ -1,12 +1,12 @@
 
 # Sales Forecasting & Clustering - Final Project
 
-Prepared by: ChatGPT (Your Assistant) & <Your Name Here>
+Prepared by: Subalakshmi
 
 ## Contents
 - sales_project.py        : Main script (runs preprocessing, unsupervised + supervised models, visualizations)
 - output/                 : Folder created by script containing charts, metrics & predictions
-- Sales_Project_Summary_PPT.pptx : Quick presentation (prepared by ChatGPT)
+- Sales_Project_Summary_PPT.pptx : Quick presentation 
 - dataset: Provide your `train.csv` in the same folder before running
 
 ## How to run
@@ -23,4 +23,4 @@ Prepared by: ChatGPT (Your Assistant) & <Your Name Here>
 
 ## Notes
 - Replace `<Your Name Here>` with your name in files where appropriate.
-- The PPT already has 'Prepared by: ChatGPT'. If you want I can update the PPT to include your name.
+- The PPT already has 'Prepared by: subalakshmi'. If you want I can update the PPT to include your name.
